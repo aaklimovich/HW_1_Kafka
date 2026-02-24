@@ -1,3 +1,4 @@
+Данные `gaming_mental_health_10M_40features.csv` можно скачать тут https://www.kaggle.com/datasets/sharmajicoder/gaming-and-mental-health
 # Установка и запуск
 
 1. Клонируйте репозиторий
@@ -17,5 +18,5 @@ docker-compose up --build
 4. Нажмите кнопку "Запустить анализ" для начала обработки данных
 
 
-![Alt-текст](frontend\Frontend1.png)
-![Alt-текст](frontend\Frontend2.png)
+![Frontend1](frontend/Frontend1.png)
+![Frontend2](frontend/Frontend2.png)
